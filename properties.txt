@@ -1,0 +1,6 @@
+#Note that the numbers should not have trailing blank characters
+laneLength      : 10
+laneWSLength    :  8
+lightPeriod     : 14
+lightWestGreen  :  6
+lightSouthGreen :  4
